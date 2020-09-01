@@ -1,0 +1,5 @@
+- create index.html
+- create styles.css
+- create index.ts
+- add if need parcel -> npm install -g parcel-bundler
+- run parcel index.html
